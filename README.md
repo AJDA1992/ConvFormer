@@ -3,6 +3,7 @@
 This repo is the official implementation of ConvFormer: 3D Human Pose Estimation with Dynamic Multi-headed Convolutional Attention
 
 # ConvFormer Architecture:
+![figure](https://user-images.githubusercontent.com/95489745/168616279-15dced6e-8639-4193-8a14-72ff6ab186ea.jpg)
 
 
 # Video Demo
