@@ -23,3 +23,6 @@ This repo is the official implementation of ConvFormer: 3D Human Pose Estimation
   Our code is compatible with the dataset setup introduced in Martinez et al. and Pavllo et al. Please refer to either repo to set up H3.6M (./data director)
   ## Evaluation
   ## Demo
+  
+  ## Examples
+  ![Screenshot (79)](https://user-images.githubusercontent.com/95489745/184756992-33feda46-2335-493e-8407-d02c4501952c.png)
